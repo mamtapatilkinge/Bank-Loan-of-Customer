@@ -6,7 +6,7 @@ Dataset Size: Each Excel file has 39k records
 # This project is a part of Internship Data Analyst (Training + Internship)
 
 Data Description:
-The file Finance-1 & Fiance-2.xls contains data on 39717 customers. The data include customer demographic information (age, income, etc.), the customer's relationship with the bank (mortgage, securities account, etc.)
+The file Finance-1 & Fiance-2.xlsx contains data on 39717 customers. The data include customer demographic information (age, income, etc.), the customer's relationship with the bank (mortgage,Grade, Sub-Grade etc.)
 
 # KPI 1 Year wise loan stats
 # KPI 2 Grade & Sub Grade wise Revolving Balance
